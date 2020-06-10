@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">短视频APP</string>
+    <string name="tv_text">首页</string>
+    <string name="btn_home_text">首页</string>
+    <string name="btn_VP2_text">抖音界面</string>
+    <string name="btn_upload_text">+</string>
+    <string name="btn_msg_text">消息</string>
+    <string name="btn_me_text">我</string>
+    <string name="btn_RV">界面</string>
+</resources>
